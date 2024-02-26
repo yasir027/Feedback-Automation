@@ -9,10 +9,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Add click event listeners to redirect to Google feedback form
     rating4.addEventListener("click", function() {
-        window.location.href = "https://g.co/kgs/TSGYfUE"; // Replace with your feedback form URL
+        window.location.href = "https://g.page/r/Cdy3qDU5bztoEBE/review"; // Replace with your feedback form URL
     });
 
     rating5.addEventListener("click", function() {
-        window.location.href = "https://g.co/kgs/TSGYfUE"; // Replace with your feedback form URL
+        window.location.href = "https://g.page/r/Cdy3qDU5bztoEBE/review"; // Replace with your feedback form URL
     });
 });
