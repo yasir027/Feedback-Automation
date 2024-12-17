@@ -24,11 +24,12 @@ This project is a simple webpage that allows users to rate their experience usin
 To run this project locally, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yasir027/filtering-good-reviews.git
+   git clone https://github.com/yasir027/Feedback-Automation.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd filtering-good-reviews
+   cd Feedback-Automation
+
    ```
 3. Open `index.html` in your browser to view the webpage.
 
